@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "The Hive",
+    "city_location": "Madrid, Spain",
+    "image_main": "thehive-outside.jpg",
+    "image_second": "thehive-inside.jpg",
+    "image_main_src": "assets/thehive-outside.jpg",
+    "image_second_src": "assets/thehive-inside.jpg"
+  },
+  {
+    "id": 2,
+    "title": "B'Fly",
+    "city_location": "Tijuana, Mexico",
+    "image_main": "bfly-outside.jpg",
+    "image_second": "bfly-inside.jpg",
+    "image_main_src": "assets/bfly-outside.jpg",
+    "image_second_src": "assets/bfly-inside.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Bonsai",
+    "city_location": "Kyoto, Japan",
+    "image_main": "bonsai-outside.jpg",
+    "image_second": "bonsai-inside.jpg",
+    "image_main_src": "assets/bonsai-outside.jpg",
+    "image_second_src": "assets/bonsai-inside.jpg"
+  },
+  {
+    "id": 4,
+    "title": "L'Camou",
+    "city_location": "Vancouver, Canada",
+    "image_main": "lcamou-outside.jpg",
+    "image_second": "lcamou-inside.jpg",
+    "image_main_src": "assets/lcamou-outside.jpg",
+    "image_second_src": "assets/lcamou-inside.jpg"
+  }
+]
