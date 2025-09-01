@@ -1,0 +1,1 @@
+Alles werkt als volgt en spreekt voor zich. Ik heb de website best simpel gehouden. Als je de filmpje kijkt is het te zien hoe het in ze werking gaat. Alle eisen zijn gevolgd. https://www.youtube.com/watch?v=rRb2pdbRSo0
